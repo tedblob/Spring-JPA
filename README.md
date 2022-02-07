@@ -1,1 +1,1 @@
-# SpringJPAPaginationAndSorting
+# Spring Data JPA
